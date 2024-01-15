@@ -8,3 +8,7 @@ Welcome to Spare Time Scribbles, a collection of diverse coding exercises. In th
 
 ## SQL
 - [SoftUni PostgreSQL-september-2023](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-september-2023)
+
+## Python
+
+- [Some automation for a friend](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/XMLtoCSV)
