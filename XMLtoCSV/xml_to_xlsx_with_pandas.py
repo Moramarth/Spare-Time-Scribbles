@@ -28,7 +28,7 @@ def process_xml_file(original_file_path, original_directory, output_directory):
     output_path = os.path.join(output_directory, relative_path)
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-    new_file = output_path.replace('.xml', '_pandas.xlsx')
+    new_file = output_path.replace('.xml', '.xlsx')
     # You can change the second argument of *** output_path.replace() *** for more explicit names
     # e.g '_file_for_translation.xlsx'
     # output will be OriginalFileName_file_for_translation.xlsx
@@ -102,7 +102,9 @@ def process_xml_file(original_file_path, original_directory, output_directory):
 
         # Set column width to ensure the full text is visible
         for i, col in enumerate(df.columns):
-            max_len = df[col].astype(str).apply(len).max()
+            max_header_len = len(col)
+            max_data_len = df[col].astype(str).apply(len).max()
+            max_len = max(max_header_len, max_data_len)
             worksheet.set_column(i, i, max_len + 2)  # Adding extra space for padding
 
         # Apply cell borders

@@ -3,6 +3,6 @@ function constructionCrew(workerObj) {
         workerObj.levelOfHydrated += 0.1 * workerObj.weight * workerObj.experience
         workerObj.dizziness = false
     }
-   
+
     return workerObj
 }
