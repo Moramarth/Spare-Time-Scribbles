@@ -8,8 +8,8 @@ function townsToJSON(stringsArray) {
         const [town, latitude, longitude] = element
         output.push({
             'Town': town.trim(),
-            'Latitude': Number(latitude.trim()).toFixed(2),
-            'Longitude': Number(longitude.trim()).toFixed(2),
+            'Latitude': Number(Number(latitude.trim()).toFixed(2)),
+            'Longitude': Number(Number(longitude.trim()).toFixed(2)),
         })
     }
     console.log(JSON.stringify(output))
