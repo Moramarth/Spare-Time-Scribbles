@@ -3,7 +3,6 @@ function areaAndVolumeCalculator(areaFunc, volumeFunc, input) {
     let x, y, z;
 
     JSON.parse(input).map(obj => {
-        console.log(obj)
         x = obj.x
         y = obj.y
         z = obj.z
