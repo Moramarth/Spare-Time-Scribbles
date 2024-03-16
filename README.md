@@ -12,3 +12,7 @@ Welcome to Spare Time Scribbles, a collection of diverse coding exercises. In th
 ## Python
 
 - [Some automation for a friend](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/XMLtoCSV)
+
+## Perl
+
+- [Basic syntax exercise](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/Perl%20Basic%20Syntax%20tasks)
