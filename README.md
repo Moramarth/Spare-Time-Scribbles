@@ -7,7 +7,7 @@ Welcome to Spare Time Scribbles, a collection of diverse coding exercises. In th
 - [SoftUni JS Advanced](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SofitUni%20JS%20Advanced)
 
 ## SQL
-- [SoftUni PostgreSQL-january-2025](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-january-2025)
+- [SoftUni PostgreSQL-January-2025](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025)
 
 ## Python
 
