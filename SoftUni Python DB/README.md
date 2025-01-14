@@ -7,3 +7,5 @@
     * Course Homepage: https://softuni.bg/trainings/4847/postgresql-january-2025
     * [Introduction-Data-Types-And-Table-Basics](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/01-PostgreSQL-Introduction-Data-Types-And-Table-Basics)
     * [Basic CRUD](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/02-PostgreSQL-Basic-CRUD)
+    * [Built-in Functions](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/03-PostgreSQL-Built-in-Functions)
+    * [Data Aggregation](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/04-PostgreSQL-Data-Aggregation)
