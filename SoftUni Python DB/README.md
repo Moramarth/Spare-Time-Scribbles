@@ -9,3 +9,4 @@
     * [Basic CRUD](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/02-PostgreSQL-Basic-CRUD)
     * [Built-in Functions](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/03-PostgreSQL-Built-in-Functions)
     * [Data Aggregation](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/04-PostgreSQL-Data-Aggregation)
+    * [Table Relations](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/05-PostgreSQL-Table-Relations)
