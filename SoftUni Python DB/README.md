@@ -11,4 +11,4 @@
     * [Data Aggregation](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/04-PostgreSQL-Data-Aggregation)
     * [Table Relations](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/05-PostgreSQL-Table-Relations)
     * [Subqueries and JOINs](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/06-PostgreSQL-Subqueries-And-JOINs)
-    * 
+    * [Database Programmability](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/07-PostgreSQL-Database-Programmability)
