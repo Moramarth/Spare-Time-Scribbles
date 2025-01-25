@@ -12,3 +12,6 @@
     * [Table Relations](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/05-PostgreSQL-Table-Relations)
     * [Subqueries and JOINs](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/06-PostgreSQL-Subqueries-And-JOINs)
     * [Database Programmability](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/07-PostgreSQL-Database-Programmability)
+    * Exams
+      * [PostgreSQL Retake Exam - 7 August 2024](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/PostgreSQL%20Retake%20Exam%20-%207%20August%202024)
+      * [PostgreSQL Regular Exam - 15 June 2024](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/PostgreSQL%20Regular%20Exam%20-%2015%20June%202024)
