@@ -15,3 +15,7 @@
     * Exams
       * [PostgreSQL Retake Exam - 7 August 2024](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/PostgreSQL%20Retake%20Exam%20-%207%20August%202024)
       * [PostgreSQL Regular Exam - 15 June 2024](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/PostgreSQL%20Regular%20Exam%20-%2015%20June%202024)
+      * [PostgreSQL Retake Exam - 04 December 2023](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/PostgreSQL-January-2025/PostgreSQL%20Retake%20Exam%20-%2004%20December%202023)
+  - [Python ORM - February 2025](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025)
+    * Course Homepage: https://softuni.bg/trainings/4848/python-orm-february-2025
+    * [Django Models Basics](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025/02-Django-Models-Basics)

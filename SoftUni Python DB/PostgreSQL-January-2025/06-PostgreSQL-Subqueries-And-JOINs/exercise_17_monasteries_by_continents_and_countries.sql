@@ -3,8 +3,8 @@ SET country_name = 'Burma'
 WHERE country_name = 'Myanmar';
 
 INSERT INTO monasteries (monastery_name, country_code)
-VALUES ('Hanga Abbey', 'TZ');
---('Myin-Tin-Daik', 'MM');
+VALUES ('Hanga Abbey', (SELECT country_code FROM countries WHERE country_name = 'Tanzania')),
+       ('Myin-Tin-Daik', (SELECT country_code FROM countries WHERE country_name = 'Myanmar'));
 
 SELECT C2.continent_name,
        C.country_name,

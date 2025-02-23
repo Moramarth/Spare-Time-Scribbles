@@ -12,6 +12,7 @@ Welcome to Spare Time Scribbles, a collection of diverse coding exercises. In th
 ## Python
 
 - [Some automation for a friend](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/XMLtoCSV)
+- [SoftUni Python ORM - February 2025](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025)
 
 ## Perl
 
