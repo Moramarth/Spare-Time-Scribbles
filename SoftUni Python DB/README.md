@@ -19,4 +19,4 @@
   - [Python ORM - February 2025](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025)
     * Course Homepage: https://softuni.bg/trainings/4848/python-orm-february-2025
     * [Django Models Basics](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025/02-Django-Models-Basics)
-    * [Migrations And Django Admin](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025/03-Migrations-and-Django-Admin)
+    * [Data operations in Django with queries](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025/04-Data-operations-in-Django-with-queries)
