@@ -1,6 +1,7 @@
 function getArticleGenerator(articles) {
     const articlesArray = []
     const contentContainer = document.querySelector('#content')
+    
     for (const article of articles) {
         articlesArray.push(article)
     }
@@ -12,5 +13,4 @@ function getArticleGenerator(articles) {
             article.textContent = articlesArray.shift()
         }
     }
-
 }
