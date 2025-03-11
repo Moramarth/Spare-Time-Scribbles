@@ -21,3 +21,4 @@
     * [Django Models Basics](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025/02-Django-Models-Basics)
     * [Data operations in Django with queries](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025/04-Data-operations-in-Django-with-queries)
     * [Working with queries in Django](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025/05-Working-with-queries-in-Django)
+    * [Django Models Relations](https://github.com/Moramarth/Spare-Time-Scribbles/tree/main/SoftUni%20Python%20DB/Python-ORM-February-2025/06-Django-Models-Relations)
